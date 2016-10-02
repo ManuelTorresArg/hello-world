@@ -1,3 +1,3 @@
 # hello-world
 Repo
-Juat another file
+Just another file
